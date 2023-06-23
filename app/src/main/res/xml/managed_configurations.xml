@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restrictions xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <restriction
+        android:defaultValue="https://alvarez.tech"
+        android:description="@string/server_url_desc"
+        android:key="server_url"
+        android:restrictionType="string"
+        android:title="@string/server_url" />
+
+    <restriction
+        android:defaultValue="true"
+        android:description="@string/authentication_enabled_desc"
+        android:key="authentication_enabled"
+        android:restrictionType="bool"
+        android:title="@string/authentication_enabled" />
+
+    <restriction
+        android:defaultValue="3"
+        android:description="@string/number_of_attempts_desc"
+        android:key="number_attempts"
+        android:restrictionType="integer"
+        android:title="@string/number_of_attempts" />
+
+</restrictions>

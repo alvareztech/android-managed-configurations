@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Managed Configurations Sample</string>
+    <string name="server_url">Server URL</string>
+    <string name="server_url_desc">Server URL description</string>
+    <string name="authentication_enabled">Authentication Enabled</string>
+    <string name="authentication_enabled_desc">Authentication Enabled Description</string>
+    <string name="number_of_attempts">Number of attempts</string>
+    <string name="number_of_attempts_desc">Number of attempts description</string>
+</resources>
